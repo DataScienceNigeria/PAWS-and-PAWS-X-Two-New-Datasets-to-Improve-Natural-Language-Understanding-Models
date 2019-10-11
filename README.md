@@ -5,4 +5,4 @@ With PAWS dataset from Google AI, NLP algorithmic accuracy in word order and str
 ![](2.jpg)
 Now, models can identify if two phrases have the same meaning or not. Check it out.
 
-https://ai.googleblog.com/…/releasing-paws-and-paws-x-two-n…
+https://ai.googleblog.com/2019/10/releasing-paws-and-paws-x-two-new.html?m=1&fbclid=IwAR2FEftVDwE-Zopu-RjpHAWEMHKoraQj-gxVxHattzLfYAAiBhjKymEeQUI
